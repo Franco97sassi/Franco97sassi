@@ -39,6 +39,6 @@ Here are some ideas to get you started:
     <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" alt="Linkedin Logo" width="32"/>
  </a>
 <a href="mailto:franco.sassi97@gmail.com">
-   <img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" alt="Gmail Logo" width="32"/>
+   <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" width="32"/>
 </a>
 </div>
