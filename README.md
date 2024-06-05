@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="Git Logo" width="32"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="Git Logo" width="32"/>
  <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" alt="Git Logo" width="32"/>
- <img src="https://cdn-icons-png.flaticon.com/128/15474/15474209.png" alt="Git Logo" width="32"/>
+ <img src="https://cdn-icons-png.flaticon.com/128/15474/15474209.png" alt="MySql Logo" width="32"/>
+ <img src="https://iconos8.es/icon/90519/spring-logo" alt="Git Logo" width="32"/>
 
 </div> 
  
