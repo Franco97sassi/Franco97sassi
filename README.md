@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 # I'm Franco Sassi
 - I am Rosario, Santa Fe Argentina. I successfully completed the Full Stack Developer degree at CoderHouse in 2023.
 - I have been working for over 1 year as a front-end developer, creating visual interfaces, making responsive designs, and collaborating with back-end developers to integrate APIs.
-   
-  ## Languages and Tools
- <div style="display:flex; align-items:center ;gap:10px;">
- <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React Logo" width="32"/>
+
+## Languages and Tools
+<div style="display:flex; align-items:center ;gap:10px;">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React Logo" width="32"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="Html Logo" width="32"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="Css Logo" width="32"/>
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="Js Logo" width="32"/>
@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="Git Logo" width="32"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="Git Logo" width="32"/>
 </div> 
+ 
+ ### Contact
  <div style="display:flex; align-items:center ;gap:10px;">
-
-### Contact
  <a href="https://www.linkedin.com/in/franco-sassi-777b0317a/">
-  <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" alt="Linkedin Logo" width="32"/>
-</a>
+    <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" alt="Linkedin Logo" width="32"/>
+ </a>
 <a href="mailto:franco.sassi97@gmail.com">
-  <img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" alt="Gmail Logo" width="32"/>
+   <img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" alt="Gmail Logo" width="32"/>
 </a>
 </div>
