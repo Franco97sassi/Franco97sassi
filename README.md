@@ -15,19 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # I'm Franco Sassi
-- I am Rosario, Santa Fe Argentina. I successfully completed the Front End Developer degree at CoderHouse in 2023.
+- I am Rosario, Santa Fe Argentina. I successfully completed the Full Stack Developer degree at CoderHouse in 2023.
+- I have been working for over 1 year as a front-end developer, creating visual interfaces, making responsive designs, and collaborating with back-end developers to integrate APIs.
  <div style="display:flex; align-items:center gap:"10px">
   
-  ## Languages and Tools
+  ## Languages and Tools 
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React Logo" width="32"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="Html Logo" width="32"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="Css Logo" width="32"/>
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="Js Logo" width="32"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="Node Logo" width="32"/>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="MOngo Logo" width="32"/>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="Git Logo" width="32"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="Mongo Logo" width="32"/>
+<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Git Logo" width="32"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_sass_icon_130182.png" alt="Git Logo" width="32"/>
+<img src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png" alt="Git Logo" width="32"/>
+<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="Git Logo" width="32"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="Git Logo" width="32"/>
 
-</div>
+</div> 
 ### Contact
  <div style="display:flex; align-items:center gap:"10px">
 <a href="https://www.linkedin.com/in/franco-sassi-777b0317a/">
