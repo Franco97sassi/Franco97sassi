@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - I have been working for over 1 year as a front-end developer, creating visual interfaces, making responsive designs, and collaborating with back-end developers to integrate APIs.
    
   ## Languages and Tools
-   <div style="display:flex; align-items:center;gap:10px;">
+ <div style="display:flex; align-items:center ;gap:10px;">
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React Logo" width="32"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="Html Logo" width="32"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="Css Logo" width="32"/>
