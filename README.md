@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 # I'm Franco Sassi
 - I am Rosario, Santa Fe Argentina. I successfully completed the Front End Developer degree at CoderHouse in 2023.
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png](https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png)">
-  <source media="(prefers-color-scheme: light)"srcset="[https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png](https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png)">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png)">
-</picture>
+ 
+ 
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React Logo" width="100"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="Html Logo" width="100"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="Css Logo" width="100"/>
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="Js Logo" width="100"/>
+
