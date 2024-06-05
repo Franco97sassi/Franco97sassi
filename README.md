@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 # I'm Franco Sassi
 - I am Rosario, Santa Fe Argentina. I successfully completed the Front End Developer degree at CoderHouse in 2023.
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png)
