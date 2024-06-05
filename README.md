@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - I have been working for over 1 year as a front-end developer, creating visual interfaces, making responsive designs, and collaborating with back-end developers to integrate APIs.
    
   ## Languages and Tools
-   <div style="  gap:"10px">
+   <div style="display:flex,flexDirection:row, gap:10px">
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React Logo" width="32"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="Html Logo" width="32"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="Css Logo" width="32"/>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### Contact
  <div style="display:flex; align-items:center gap:"10px">
 <a href="https://www.linkedin.com/in/franco-sassi-777b0317a/">
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="MongoDB Logo" width="32"/>
+  <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" alt="Linkedin Logo" width="32"/>
 </a>
 <a href="mailto:franco.sassi97@gmail.com">
   <img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" alt="Gmail Logo" width="32"/>
