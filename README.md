@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # I'm Franco Sassi
-- I am Rosario, Santa Fe Argentina. I successfully completed the Full Stack Developer degree at CoderHouse in 2023.
-- I have been working for over 1 year as a front-end developer, creating visual interfaces, making responsive designs, and collaborating with back-end developers to integrate APIs.
+- I am from Rosario, Santa Fe Argentina. I successfully completed the Full Stack Developer degree at CoderHouse in 2023.
+- I have been working for over 1 year as a Front-end developer, creating visual interfaces, making responsive designs, and collaborating with back-end developers to integrate APIs.
 
 ## Languages and Tools
 <div style="display:flex; align-items:center ;gap:10px;">
