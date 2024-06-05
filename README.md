@@ -26,14 +26,16 @@ Here are some ideas to get you started:
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="Js Logo" width="32"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="Node Logo" width="32"/>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="Mongo Logo" width="32"/>
-<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Git Logo" width="32"/>
+<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python Logo" width="32"/>
+ <img src="https://img.icons8.com/?size=80&id=LPmcJ9e0FU7K&format=png" alt="Django Logo" width="32"/>
+
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_sass_icon_130182.png" alt="Git Logo" width="32"/>
 <img src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png" alt="Git Logo" width="32"/>
 <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="Git Logo" width="32"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="Git Logo" width="32"/>
  <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" alt="Git Logo" width="32"/>
  <img src="https://cdn-icons-png.flaticon.com/128/15474/15474209.png" alt="MySql Logo" width="32"/>
- <img src="https://img.icons8.com/?size=48&id=90519&format=png" alt="Git Logo" width="32"/>
+ <img src="https://img.icons8.com/?size=48&id=90519&format=png" alt="SpringBoot Logo" width="32"/>
 
 </div> 
  
