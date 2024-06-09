@@ -41,7 +41,7 @@ Here are some ideas to get you started:
  
  ### Contact
  <div style="display:flex; align-items:center ;gap:10px;">
- <a href="https://www.linkedin.com/in/franco-sassi-777b0317a/">
+ <a href="https://www.linkedin.com/in/sassifranco/">
     <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" alt="Linkedin Logo" width="32"/>
  </a>
 <a href="mailto:franco.sassi97@gmail.com">
