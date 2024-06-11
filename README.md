@@ -36,8 +36,8 @@ Here are some ideas to get you started:
  <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" alt="Git Logo" width="32"/>
  <img src="https://cdn-icons-png.flaticon.com/128/15474/15474209.png" alt="MySql Logo" width="32"/>
  <img src="https://img.icons8.com/?size=48&id=90519&format=png" alt="SpringBoot Logo" width="32"/>
- <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/handlebars_original_logo_icon_146483.png alt="Handlebars" width="32">
-"
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_handlebars_icon_130555.png" alt="Handlebars" width="32"/>
+
  </div> 
  
  ### Contact
