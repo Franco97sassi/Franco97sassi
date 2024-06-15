@@ -40,7 +40,14 @@ Here are some ideas to get you started:
 
  </div> 
  
-### Achievements
-- API consumption
+ ### Contact
+ <div style="display:flex; align-items:center ;gap:10px;">
+ <a href="https://www.linkedin.com/in/sassifranco/">
+    <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" alt="Linkedin Logo" width="32"/>
+ </a>
+<a href="mailto:franco.sassi97@gmail.com">
+   <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" width="32"/>
+</a>
+</div>
   
  
