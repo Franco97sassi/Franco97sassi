@@ -40,9 +40,8 @@ Here are some ideas to get you started:
 
  </div> 
 ## Achievements
-<div> 
 - API consumption
-  </div>
+  
  ### Contact
  <div style="display:flex; align-items:center ;gap:10px;">
  <a href="https://www.linkedin.com/in/sassifranco/">
