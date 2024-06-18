@@ -1,8 +1,9 @@
 # Hi there 👋
  
 # I'm Franco Sassi
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/wdSbhtP" data-context="false" ><a href="//imgur.com/a/wdSbhtP"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> - I am from Rosario, Santa Fe, Argentina. I successfully completed the Full Stack Developer degree at CoderHouse in 2023.
-- I have been working for over 1 year as a Front-end developer, creating visual interfaces, making responsive designs, and collaborating with back-end developers to integrate APIs.
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCJ0Wa-YOjkW55eHOIA7RcUz6MAN0fIIwBGA&s" alt="Fondo" width="100%" />
+
+ - I have been working for over 1 year as a Front-end developer, creating visual interfaces, making responsive designs, and collaborating with back-end developers to integrate APIs.
 - I am always eager to learn new languages, frameworks, and tools.
 - You can see my projects here : <a href="https://portfoliofrancosassi.vercel.app/">Portfolio</a> 
 ## Languages and Tools
