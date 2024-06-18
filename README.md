@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<!--
+
 **Franco97sassi/Franco97sassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--- 
+
 # I'm Franco Sassi
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaXuIXFY4rbmda2mGbSfOr2gmshgAAYWVWDg&s" alt="Django Logo" />
 
