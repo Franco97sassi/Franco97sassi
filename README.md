@@ -1,8 +1,7 @@
 # Hi there 👋
  
 # I'm Franco Sassi
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCJ0Wa-YOjkW55eHOIA7RcUz6MAN0fIIwBGA&s" alt="Fondo" width="100%" />
-
+ 
  - I have been working for over 1 year as a Front-end developer, creating visual interfaces, making responsive designs, and collaborating with back-end developers to integrate APIs.
 - I am always eager to learn new languages, frameworks, and tools.
 - You can see my projects here : <a href="https://portfoliofrancosassi.vercel.app/">Portfolio</a> 
