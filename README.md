@@ -5,7 +5,8 @@
 
 - I am from Rosario, Santa Fe, Argentina. I successfully completed the Full Stack Developer degree at CoderHouse in 2023.
 - I have been working for over 1 year as a Front-end developer, creating visual interfaces, making responsive designs, and collaborating with back-end developers to integrate APIs.
-- You can see my projects here: <a href="https://portfoliofrancosassi.vercel.app/">Portfolio</a> 
+- I am always eager to learn new languages, frameworks, and tools.
+- You can see my projects here : <a href="https://portfoliofrancosassi.vercel.app/">Portfolio</a> 
 ## Languages and Tools
 <div style="display:flex; align-items:center ;gap:10px;">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React Logo" width="32"/>
