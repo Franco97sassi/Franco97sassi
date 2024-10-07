@@ -26,8 +26,7 @@
  <img src="https://cdn-icons-png.flaticon.com/128/15474/15474209.png" alt="MySql Logo" width="32"/>
  <img src="https://img.icons8.com/?size=48&id=90519&format=png" alt="SpringBoot Logo" width="32"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_handlebars_icon_130555.png" alt="Handlebars" width="32"/>
-<img src="https://iconos8.es/icon/25Sjy8fKExYA/react-native" alt="React Native" width="32"/>
-  </div> 
+   </div> 
  
  ### Contact
  <div style="display:flex; align-items:center ;gap:10px;">
