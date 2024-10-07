@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/daf0c314-b607-4310-a5b0-935a634d8bbd)# Hi there 👋
+ # Hi there 👋
  
 # I'm Franco Sassi
  
@@ -27,8 +27,7 @@
  <img src="https://img.icons8.com/?size=48&id=90519&format=png" alt="SpringBoot Logo" width="32"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_handlebars_icon_130555.png" alt="Handlebars" width="32"/>
 <img src="https://iconos8.es/icon/25Sjy8fKExYA/react-native" alt="React Native" width="32"/>
-
- </div> 
+  </div> 
  
  ### Contact
  <div style="display:flex; align-items:center ;gap:10px;">
