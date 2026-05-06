@@ -4,7 +4,7 @@
  
  - I have been working for over 2 years as a Front-end developer, creating visual interfaces, making responsive designs, and collaborating with back-end developers to integrate APIs.
 - I am always eager to learn new languages, frameworks, and tools.
-- You can see my projects here : <a href="https://portfoliofrancosassi.vercel.app/" style="text-decoration: none;">Portfolio</a>
+- You can see my projects here : <a href="https://portfoliofranco-sassi.vercel.app/" style="text-decoration: none;">Portfolio</a>
 
 
 ## Languages and Tools
