@@ -5,28 +5,40 @@
 - I am a Software Engineer specialized in React, ASP.NET Core, Node.js and cloud-based applications. Experienced in building scalable web applications, REST APIs, SQL Server databases and modern frontend architectures. Passionate about building scalable software, software architecture, cloud technologies and continuous learning.
 - I am always eager to learn new languages, frameworks, and tools.
 - You can see my projects here : <a href="https://portfoliofranco-sassi.vercel.app/" style="text-decoration: none;">Portfolio</a>
+💻 3+ years coding
 
+🚀 15+ personal projects
+
+📚 Currently learning
+• Azure
+• Microservices
+• System Design
 
 ## Languages and Tools
-<div style="display:flex; align-items:center ;gap:10px;">
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React Logo" width="32"/>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="Html Logo" width="32"/>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="Css Logo" width="32"/>
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="Js Logo" width="32"/>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" alt="Node Logo" width="32"/>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="Mongo Logo" width="32"/>
-<img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="Python Logo" width="32"/>
- <img src="https://img.icons8.com/?size=80&id=LPmcJ9e0FU7K&format=png" alt="Django Logo" width="32"/>
-
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_sass_icon_130182.png" alt="Git Logo" width="32"/>
-<img src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61475.png" alt="Git Logo" width="32"/>
-<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="Git Logo" width="32"/>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="Git Logo" width="32"/>
- <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" alt="Git Logo" width="32"/>
- <img src="https://cdn-icons-png.flaticon.com/128/15474/15474209.png" alt="MySql Logo" width="32"/>
- <img src="https://img.icons8.com/?size=48&id=90519&format=png" alt="SpringBoot Logo" width="32"/>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_handlebars_icon_130555.png" alt="Handlebars" width="32"/>
-   </div> 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
+</p>
  
  ### Contact
  <div style="display:flex; align-items:center ;gap:10px;">
