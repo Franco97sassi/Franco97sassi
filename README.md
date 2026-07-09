@@ -2,7 +2,7 @@
 
 # I'm Franco Sassi
 
-Software Engineer specialized in **React, ASP.NET Core, C#, SQL Server and modern web applications**.
+Full Stack Software Engineer experienced in **React, Angular, React Native, ASP.NET Core, Node.js, Python, Java, SQL Server and modern web applications**.
 
 I enjoy building scalable software, designing clean architectures and solving real-world business problems through technology. Passionate about Software Engineering, Cloud Computing, Artificial Intelligence and continuous learning.
 
@@ -17,8 +17,10 @@ I enjoy building scalable software, designing clean architectures and solving re
 ## 🚀 About Me
 
 - 🔹 Full Stack Software Engineer
-- 🔹 Experience building scalable web applications
-- 🔹 REST API development with ASP.NET Core
+- 🔹 Experience building scalable web and mobile applications
+- 🔹 Frontend development with React, Angular and React Native
+- 🔹 Backend development with ASP.NET Core, Node.js, Python and Java
+- 🔹 REST API development
 - 🔹 Enterprise application modernization
 - 🔹 SQL Server database design and optimization
 - 🔹 Legacy system migration
@@ -42,7 +44,7 @@ I enjoy building scalable software, designing clean architectures and solving re
 # 🛠 Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,materialui,js,ts,nodejs,express,cs,dotnet,python,django,java,spring,mysql,postgres,mongodb,redis,git,github,githubactions,docker,azure,aws,postman,redux,vite,visualstudio,vscode,linux,figma,graphql,rabbitmq,kafka,kubernetes,terraform,jenkins,npm,yarn&perline=9" />
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,bootstrap,materialui,js,ts,nodejs,express,cs,dotnet,python,django,java,spring,mysql,postgres,mongodb,redis,git,github,githubactions,docker,azure,aws,postman,redux,vite,visualstudio,vscode,androidstudio,linux,figma,graphql,rabbitmq,kafka,kubernetes,terraform,jenkins,npm,yarn&perline=9" />
 </p>
 
 ---
@@ -51,6 +53,8 @@ I enjoy building scalable software, designing clean architectures and solving re
 
 - Software Engineering
 - Software Architecture
+- Full Stack Development
+- Mobile Development
 - System Design
 - Clean Architecture
 - Domain-Driven Design (DDD)
@@ -61,10 +65,6 @@ I enjoy building scalable software, designing clean architectures and solving re
 - REST APIs
 - Artificial Intelligence
 - Machine Learning
-
----
-
- 
 
 ---
 
@@ -101,5 +101,3 @@ I enjoy building scalable software, designing clean architectures and solving re
 <a href="https://portfoliofranco-sassi.vercel.app/" target="_blank">
 <img src="https://img.icons8.com/fluency/48/domain.png" width="35"/>
 </a>
-
-</p>
