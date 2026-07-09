@@ -1,53 +1,121 @@
- # Hi there 👋
- 
+# Hi there 👋
+
 # I'm Franco Sassi
- 
-- I am a Software Engineer specialized in React, ASP.NET Core, Node.js and cloud-based applications. Experienced in building scalable web applications, REST APIs, SQL Server databases and modern frontend architectures. Passionate about building scalable software, software architecture, cloud technologies and continuous learning.
-- I am always eager to learn new languages, frameworks, and tools.
-- You can see my projects here : <a href="https://portfoliofranco-sassi.vercel.app/" style="text-decoration: none;">Portfolio</a>
-💻 3+ years coding
 
-🚀 15+ personal projects
+Software Engineer specialized in **React, ASP.NET Core, C#, SQL Server and modern web applications**.
 
-📚 Currently learning
-• Azure
-• Microservices
-• System Design
+I'm passionate about building scalable software, designing clean architectures and continuously learning new technologies. I enjoy solving real-world business problems through high-quality software.
 
-## Languages and Tools
+- 💼 Currently working as a Software Developer at Expreso Brio.
+- 🚀 Experienced in developing scalable web applications, REST APIs and enterprise systems.
+- ☁️ Interested in Software Architecture, Cloud Computing and Distributed Systems.
+- 🌐 Portfolio: https://portfoliofranco-sassi.vercel.app/
+
+---
+
+## 🚀 About Me
+
+- 💻 3+ years of programming experience
+- 🚀 15+ personal projects
+- 🌱 Currently learning:
+  - Azure
+  - Microservices
+  - System Design
+  - Domain-Driven Design (DDD)
+  - Event-Driven Architecture
+  - Distributed Systems
+
+---
+
+## 🛠 Languages and Tools
+
+## 🛠 Languages and Tools
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/>
+  <img src="https://skillicons.dev/icons?i=
+react,
+html,
+css,
+tailwind,
+bootstrap,
+materialui,
+js,
+ts,
+nodejs,
+express,
+cs,
+dotnet,
+python,
+django,
+java,
+spring,
+mysql,
+postgres,
+sqlite,
+mongodb,
+redis,
+git,
+github,
+githubactions,
+docker,
+azure,
+aws,
+postman,
+redux,
+vite,
+visualstudio,
+vscode,
+figma,
+linux,
+nginx,
+graphql,
+rabbitmq,
+kafka,
+kubernetes,
+terraform,
+jenkins,
+npm,
+yarn
+&perline=10" />
 </p>
- 
- ### Contact
- <div style="display:flex; align-items:center ;gap:10px;">
- <a href="https://www.linkedin.com/in/sassifranco/">
-    <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" alt="Linkedin Logo" width="32"/>
- </a>
-<a href="mailto:franco.sassi97@gmail.com">
-   <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="Gmail Logo" width="32"/>
+
+---
+
+## 📚 Technologies I'm Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,redis,rabbitmq,kafka,graphql" />
+</p>
+
+---
+
+## 🎯 Areas of Interest
+
+- Software Engineering
+- Software Architecture
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- Microservices
+- REST APIs
+- Cloud Computing
+- Distributed Systems
+- Artificial Intelligence
+- System Design
+
+---
+
+## 📫 Contact
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sassifranco/">
+<img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="32"/>
 </a>
-</div>
-  
- 
+
+<a href="mailto:franco.sassi97@gmail.com">
+<img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="32"/>
+</a>
+
+<a href="https://portfoliofranco-sassi.vercel.app/">
+<img src="https://img.icons8.com/fluency/48/domain.png" width="32"/>
+</a>
+</p>
