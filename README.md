@@ -83,21 +83,22 @@ I enjoy building scalable software, designing clean architectures and solving re
 ---
 
 # 📫 Contact
+ 
 
-<p align="left">
+<p align="center">
+  <a href="https://www.linkedin.com/in/sassifranco/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/sassifranco/" target="_blank">
-<img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="35"/>
-</a>
+  <a href="mailto:franco.sassi97@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-&nbsp;&nbsp;
+  <a href="https://portfoliofranco-sassi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 
-<a href="mailto:franco.sassi97@gmail.com">
-<img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="35"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://portfoliofranco-sassi.vercel.app/" target="_blank">
-<img src="https://img.icons8.com/fluency/48/domain.png" width="35"/>
-</a>
+  <a href="https://github.com/Franco97sassi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
